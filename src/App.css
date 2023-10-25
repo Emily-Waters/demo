@@ -11,6 +11,10 @@ figure {
   margin-bottom: 10%;
 }
 
+img {
+  max-width:100vw;
+}
+
 figcaption {
   font-family: monospace;
   font-weight: bold;
